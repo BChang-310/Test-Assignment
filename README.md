@@ -1,8 +1,11 @@
-# Assignment Template
+# Test Assignment
 
-A Github workflow template for PGE310 assignments. 
+This is a test repository for creating an assignment on GitHub Classroom. 
 
-## Workflow
-1. Create a Python 3.8 environment with required packages for each assignment as specified in environment.yml
-2. Run unit tests (green checkmark = all tests passed 😁)
+Open the [Assignment Jupyter Notebook](assignment.ipynb) and follow the instructions.
+
+## Testing
+If you would like to check your solution, run the [test.py](test.py) file in Spyder.
+
+A status message of `OK` means your solution is correct.
 
